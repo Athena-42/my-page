@@ -3,7 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <LandingPage/>
+    <div className="App">
+      hello world
+    </div>
   );
 }
 
